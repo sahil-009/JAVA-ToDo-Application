@@ -1,4 +1,5 @@
 # JAVA-ToDo-Application
-# ToDo Application in JAVA and swing
+<h3># ToDo Application in JAVA and swing</h3>
 Requirements :
-Installl java
+1) Installl java
+2) run app.java
